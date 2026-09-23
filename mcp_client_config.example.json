@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "contentguard": {
+      "command": "python3",
+      "args": ["/ABSOLUTE/PATH/TO/headless_api/mcp_server.py"],
+      "transport": "stdio"
+    }
+  }
+}
