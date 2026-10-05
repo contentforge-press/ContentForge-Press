@@ -18,3 +18,10 @@ We ship **AI agents, MCP servers, and production automation** — validated in p
 
 ## Work with us
 Fixed-scope, PR-based delivery. Start from the studio page; serious requests get a scoped proposal and a public PR.
+
+
+## Main product — GovContract Radar
+- 🌐 **Site**: https://pixharvest.com — hourly US federal contract opportunity intelligence from SAM.gov (NAICS-filtered, set-aside alerts, recompete radar, free public API, MCP server)
+- 🤖 **MCP**: `https://gov.pixharvest.com/mcp` · [npm package](https://www.npmjs.com/package/gov-contract-radar-mcp) · [Official MCP Registry: com.pixharvest/gov-contract-radar](https://registry.modelcontextprotocol.io)
+- 🔓 **Free API, no key**: https://pixharvest.com/api/gov/today.json · https://pixharvest.com/api/gov/recompete.json
+- 📄 **Live data pages**: https://pixharvest.com/gov/daily · https://pixharvest.com/gov/expiring · https://pixharvest.com/gov/awards
