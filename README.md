@@ -1,27 +1,20 @@
-# ContentForge — AI Engineering & Automation Studio
+# 👋 Hi, I'm Jialin
 
-We ship **AI agents, MCP servers, and production automation** — validated in public, by engineers who don't know us.
+## 🚀 What I do
+I build AI tools for developers.
 
-## Trusted in public
-- **Apache DataFusion Comet** — contributor; PR [#6533](https://github.com/apache/datafusion-comet/pull/6533) approved by a core committer after multi-version Spark verification.
-- **aiwatch** — maintainers merged [#1576](https://github.com/bentleypark/aiwatch/pull/1576) built on the design from our [#1571](https://github.com/bentleypark/aiwatch/pull/1571), with credit.
-- **c15t**, **changedetection.io**, **llm4s** — integration contributions under review.
+## 📦 My Projects
+- [WebScrape AI](https://github.com/contentforge-press/webscrape-ai) - Give your AI agent clean data from the web
+- [MCP Web Scraper](https://github.com/contentforge-press/mcp-web-scraper) - MCP Server for web scraping
 
-## What we do
-- **MCP server engineering** — design, build, and ship MCP servers (stdio + Streamable HTTP), with tests and CI.
-- **API → codebase integration** — we wire a data/automation API into your project through a reviewed PR; free tier to validate, metered for production.
-- **Production automation** — code review, security analysis, change monitoring, edge-deployed data APIs (Scala / Rust / Python / TS).
+## 💡 Tech Stack
+- Python
+- AI/LLM
+- Web Scraping
+- Automation
 
-## Products
-- 📦 [`reviewpilot-mcp`](https://www.npmjs.com/package/reviewpilot-mcp) — AI code review as an MCP server / CLI / GitHub Action.
-- 🌐 Studio & portfolio: https://z6m3jypczj.page.coze.site
+## 📫 Get in touch
+- GitHub: [@contentforge-press](https://github.com/contentforge-press)
 
-## Work with us
-Fixed-scope, PR-based delivery. Start from the studio page; serious requests get a scoped proposal and a public PR.
-
-
-## Main product — GovContract Radar
-- 🌐 **Site**: https://pixharvest.com — hourly US federal contract opportunity intelligence from SAM.gov (NAICS-filtered, set-aside alerts, recompete radar, free public API, MCP server)
-- 🤖 **MCP**: `https://gov.pixharvest.com/mcp` · [npm package](https://www.npmjs.com/package/gov-contract-radar-mcp) · [Official MCP Registry: com.pixharvest/gov-contract-radar](https://registry.modelcontextprotocol.io)
-- 🔓 **Free API, no key**: https://pixharvest.com/api/gov/today.json · https://pixharvest.com/api/gov/recompete.json
-- 📄 **Live data pages**: https://pixharvest.com/gov/daily · https://pixharvest.com/gov/expiring · https://pixharvest.com/gov/awards
+---
+⭐ Star my projects if you find them useful!
